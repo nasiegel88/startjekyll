@@ -12,6 +12,6 @@ My project has recently involved a lot of immunofluorescences staining of mucins
 |![](https://i.imgur.com/dUpK9Yo.jpg)| ![](https://i.imgur.com/yqqiruW.jpg)| ![](https://i.imgur.com/heXdDyC.jpg)|
 |![](https://i.imgur.com/PtcR91l.jpg)|![](https://i.imgur.com/DrG9Jeu.jpg)|![](https://i.imgur.com/pHxJrFh.jpg)
 
-It is still hard for me to rap my mind around the numerous and evolutionary conserved mucins common in mammals. Mucins functions range from lubrication to cell signaling to forming chemical barriers.
+It is still hard for me to wrap my mind around the numerous and evolutionary conserved mucins common in mammals. Mucins functions range from lubrication to cell signaling to forming chemical barriers.
 ![](https://i.imgur.com/xtWzNr6.png)
 [String Database](https://string-db.org/cgi/network.pl?taskId=bON7COoV7REe)
