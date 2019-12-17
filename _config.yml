@@ -25,7 +25,7 @@ incremental: true
 navbar-links:
   About:
     - Bio: "aboutme"
-  #  - CV: "cv"
+    - CV: "cv"
   #  - Archives: "tags"
   Research:
     - Open Science Framework: "https://osf.io/c4g95"
