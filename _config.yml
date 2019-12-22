@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nasiegel88.github.io" # the base hostname & protocol for your site
 twitter_username: '@nasiegel8'
 github_username:  'nasiegel88'
-linkedin: 'Noah Siegel'
+linkedin: 'noah-siegel'
 encoding: UTF-8
 incremental: true
 
