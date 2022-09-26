@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.jekyll-metadata
+.bundle/
+.conda/
+.jupyter-server-log.txt
+.jupyter/
+.local/
+.ipynb_checkpoints/
