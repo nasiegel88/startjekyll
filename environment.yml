@@ -1,0 +1,19 @@
+channels:
+ - conda-forge
+dependencies:
+ - c-compiler 
+ - compilers 
+ - cxx-compiler
+ - ruby=2.5.7
+ - libgcc-ng
+ - make
+ - rb-jekyll
+ - rb-http_parser.rb
+ - rb-addressable
+ - rb-kramdown-parser-gfm
+ - rb-jekyll-sass-converter
+ - rb-bundler
+ - rb-jekyll-paginate
+ - rb-minima
+ - rb-tzinfo
+ - rb-tzinfo-data

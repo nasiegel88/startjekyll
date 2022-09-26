@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Stop on fail!
+set -e
+
+gem install kramdown
+gem install concurrent-ruby
+gem install rb-inotify
+gem install jekyll-paginate
