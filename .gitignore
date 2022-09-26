@@ -10,3 +10,4 @@ vendor
 .jupyter/
 .local/
 .ipynb_checkpoints/
+.gem/
